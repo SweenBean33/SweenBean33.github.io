@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge</td>
+    <td>I had no knowledge about GitHub, only that it had a bizarre name!</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
+    <td>To try and publish my first blog post.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>Yes, as I followed all of the instructions and even added a few extra touches like backgrounds and avatars.</td>
   </tr>
 </table>
 
@@ -41,21 +41,21 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>I focused throughout the lesson and followed what our teacher did on the board, and my blog published perfectly as a result.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
+    <td>At first I was very eager to publish and accidentally clicked on menus that weren't relevant, but after carefully watched the demonstration and fixed the problem. 
 
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+I then decided that I would listen and watch the demonstrations more attentively so that I wouldn’t make any more mistakes.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>Always focus on the demonstrations and don’t mess around while the teacher is teaching us.</td>
   </tr>
 </table>
 
